@@ -1,0 +1,97 @@
+PDF Table Extractor - Streamlit App
+
+📌 Overview
+
+This is a Streamlit-based web application that extracts text and tables from PDF files. It utilizes the LLMWhisperer API to extract text and provides options for extracting structured and unstructured tables from the text.
+
+🚀 Features
+
+📂 Upload a PDF file.
+
+🔍 Extract text using the LLMWhisperer API.
+
+📜 Download extracted text.
+
+📊 Extract tables (structured & unstructured formats).
+
+✅ Download extracted tables as Excel files.
+
+📦 Dependencies
+
+Before running the project, ensure you have the following Python packages installed:
+
+pip install streamlit pandas openpyxl requests
+
+🛠️ Setup and Running the App
+
+Clone or Download this repository.
+
+Install dependencies (if not already installed):
+
+pip install -r requirements.txt
+
+Run the Streamlit app:
+
+streamlit run app.py
+
+🔑 Configuration
+
+Update the API Key in app.py before running the script:
+
+client = LLMWhispererClientV2(
+    base_url="https://llmwhisperer-api.us-central.unstract.com/api/v2",
+    api_key="YOUR_API_KEY_HERE"  # Replace with your actual API key
+)
+
+📂 File Structure
+
+📂 Project Folder
+│── app.py               # Main Streamlit app
+│── new_test3.py         # Unstructured table extraction function
+│── test6.py             # Structured table extraction function
+│── requirements.txt     # Required dependencies
+│── README.md            # This file
+
+📝 Usage Guide
+
+1️⃣ Upload a PDF
+
+Click the file uploader to select a PDF.
+
+The file will be automatically saved for processing.
+
+2️⃣ Extract Text
+
+The app sends the file to the LLMWhisperer API.
+
+The text is extracted and displayed in a text area.
+
+You can download the extracted text.
+
+3️⃣ Extract Tables
+
+Click the Extract Structured Table button to generate an Excel file with structured tables.
+
+Click the Extract Unstructured Table button for alternative extraction.
+
+The tables are saved as Excel files and can be downloaded.
+
+📥 Example Output Files
+
+extracted_text.txt: Contains extracted raw text.
+
+structured_output.xlsx: Extracted structured tables.
+
+unstructured_output.xlsx: Extracted unstructured tables.
+
+❓ Troubleshooting
+
+ModuleNotFoundError: Run pip install -r requirements.txt
+
+Invalid API Key: Ensure your API key is correct and valid.
+
+Tables not extracting correctly: Check extracted text manually before running table extraction.
+
+📧 Contact
+
+For questions or issues, reach out to: [rishabhkataria2106@gmail.com]

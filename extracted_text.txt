@@ -1,0 +1,612 @@
+
+
+Operating Account Consolidated Statement 
+                                                                                                                                                         Standard Chartered 
+
+                          Company : 
+                   Account Number : 
+                    Post Date From : 01/05/2018                                                                  Post Date To : 31/05/2018 
+                          Currency :                                                                             Debit / Credit : Both 
+           Transaction Amount From :                                                                    Transaction Amount To : 
+
+                          Report ID : QLDS0606R                                                                 Generated On : 07/06/2018 14:25:03 
+
+S K S TEXTILES LIMITED (Company) 
+22506143895 (Account Number) 
+
+                     Account Name : M/S S K S TEXTILES LIMITED 
+                              Bank : SCBLINBBXXX 
+                          Currency : Indian Rupee                                                                       Branch : 225 
+            Opening Ledger Balance : -                                                                   Closing Ledger Balance : - 
+          Opening Available Balance : 2,640,685.92                                                     Closing Available Balance : 4,094,479.43 
+            Opening Balance As On : 01.May.2018                                                           Closing Balance As On : 31.May.2018 
+
+                                                                           Processing Cheque        Debit /                                                                 Transaction 
+Transaction Date Value Date    Transaction Reference Customer Reference Branch         Number       Credit     Transaction Amount     Transaction Details                   Type 
+
+02.May.2018       02.May.2018 SE36701805021948        7346959              225                      D                    393,175.47 PISKTEIN01A01205-SCBLR12018050200003763 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                     CASH|SCBLR12018050200003763 AEE VEE TEX- 
+                                                                                                                                      TILES AEE VEE TEXTILES-INV PAID PISK- 
+                                                                                                                                      TEIN01A01205- 
+02.May.2018       02.May.2018 SE36701805021947        7346950              225                      D                    617,852.53 PISKTEIN01A01206-SCBLR12018050200003762 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018050200003762 AEE VEE TEX- 
+                                                                                                                                      TILES AEE VEE TEXTILES-INV PAID PISK- 
+                                                                                                                                      TEIN01A01206- 
+02.May.2018       02.May.2018 IN3670180502X586        7349583              225                      C                     80,677.00 IN3670180502X586|SBIN218122702657 Funds 716 
+                                                                                                                                      Transfer NEFT Inward -credit 
+                                                                                                                                      IN3670180502X586|SBIN218122702657 VHM IN- 
+                                                                                                                                      DUSTRIES LTD 
+02.May.2018       02.May.2018 R122180055420248        7373577              225                      C                    500,000.00 IL36701805025437|HDFCR52018050276374874 In- 755 
+                                                                                                                                     RTGS-credit CASH|HDFCR52018050276374874 
+                                                                                                                                      SKSTEXTILESPVTLTD SENDER IF- 
+                                                                                                                                      SCHDFC0000240 IL36701805025437 
+03.May.2018       03.May.2018 SE36701805032491        7730830              225                      D                  1,525,962.47 PISKTEIN01A01207-SCBLR12018050300005018 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018050300005018 AEEVEE TEX- 
+                                                                                                                                      TILES AEEVEE TEXTILES-AGN INV PAID PISK- 
+                                                                                                                                      TEIN01A01207- 
+
+                                                                                                                                                                          Page : 1 of 18 
+<<<
+
+Operating Account Consolidated Statement 
+                                                                                                                                                         Standard Chartered 
+
+                                                                           Processing Cheque        Debit /                                                                 Transaction 
+
+Transaction Date Value Date    Transaction Reference Customer Reference Branch         Number       Credit     Transaction Amount     Transaction Details                   Type 
+
+03.May.2018       03.May.2018 SE36701805032493        7730822              225                      D                    286,978.53 PISKTEIN01A01208-SCBLR12018050300005017 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018050300005017 AEEVEE TEX- 
+                                                                                                                                      TILES AEEVEE TEXTILES-INV PAID PISK- 
+                                                                                                                                      TEIN01A01208- 
+03.May.2018       03.May.2018 INWARD CLG CHQ W        6839753              225         000508       D                     50,000.00 INWARD CLG CHQ WITHDRAWAL 000508        600 
+                                                                                                                                     Cheque Clearing Lcy-debit INWARD CLG CHQ 
+                                                                                                                                      WITHDRAWAL 000508 RAJMAL RAYCHAND 0485 
+                                                                                                                                      31 614389 0052788205 
+03.May.2018       04.May.2018 CHQ DEPOSIT04100        6863539              225         041009       C                    950,000.00   CHQ DEPOSIT041009 Cheque Deposit MICR-credit 648 
+                                                                                                                                      CHQ DEPOSIT041009 BANK OF MAHARASHTRA 
+04.May.2018       04.May.2018 SB3670180504GX56        8068872              225                      D                     12,630.00 PISKTEIN01A01210-SIN22176Q0001205 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01210-SIN22176Q0001205 
+                                                                                                                                      SB3670180504GX56 PICANOL INDIA 
+                                                                                                                                      PVT.TLD .- INV NO.0135/ 1819/ 
+04.May.2018       04.May.2018 SB3670180504GX53        8068873              225                      D                  1,135,996.00 PISKTEIN01A01211-SIN22176Q0001206 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01211-SIN22176Q0001206 
+                                                                                                                                      SB3670180504GX53 RR ZIP PVT.LTD .- AGN INV 
+                                                                                                                                      PAID 
+04.May.2018       04.May.2018 SB36701805040983        7957014              225                      D                    156,399.22 PISKTEIN01A01209-SIN22176Q0001204 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01209-SIN22176Q0001204 
+                                                                                                                                      SB36701805040983 K.K.SILK MILLS 
+                                                                                                                                      PVT.LTD .- INV PAID 
+04.May.2018       04.May.2018 ZCBLH18124000051        8049408              225                      C                    220,181.00 IL36701805046255|ZCBLR92018050400000051 In- 755 
+                                                                                                                                     RTGS-credit CASH|ZCBLR92018050400000051 
+                                                                                                                                      VARUN OVERSEAS SENDER IFSCZCBL0000013 
+                                                                                                                                     IL36701805046255 
+04.May.2018       04.May.2018 152797559221631         8056914              225                      C                  1,870,334.00 IL36701805046754|KVBLR52018050400284147 In- 755 
+                                                                                                                                     RTGS-credit CASH|KVBLR52018050400284147 
+                                                                                                                                      SWETA SYNTHETICS NULL SENDER IFSCK- 
+                                                                                                                                     VBL0002115 IL36701805046754 
+04.May.2018       04.May.2018 R124180055541985        7947965              225                      C                    210,000.00 IL36701805041751|HDFCR52018050476663460 In- 755 
+                                                                                                                                     RTGS-credit CASH|HDFCR52018050476663460 
+                                                                                                                                      SKSTEXTILESPVTLTD SENDER IF- 
+                                                                                                                                      SCHDFC0000240 IL36701805041751 
+05.May.2018       05.May.2018 00125731779 PRIN        0022199              225                      D                  1,368,483.25 00125731779 PRINCIPAL General Posting - DR 493 
+                                                                                                                                      00125731779 PRINCIPAL IF003010755 
+05.May.2018       05.May.2018 00125731778 INTE        0022198              225                      D                    194,543.83 00125731778 INTEREST General Posting - DR 493 
+                                                                                                                                     00125731778 INTEREST IF003010755 
+05.May.2018       05.May.2018 103259559804375         8307384              225                      C                    254,043.00 IL36701805052505|KVBLR52018050500287730 In- 755 
+                                                                                                                                     RTGS-credit CASH|KVBLR52018050500287730 
+                                                                                                                                      SWETA SYNTHETICS NULL SENDER IFSCK- 
+                                                                                                                                      VBL0002115 IL36701805052505 
+05.May.2018       05.May.2018 110385559802240         8307355              225                      C                    750,877.00 IL36701805052502|KVBLR52018050500287732 In- 755 
+                                                                                                                                     RTGS-credit CASH|KVBLR52018050500287732 
+                                                                                                                                      SWETA SYNTHETICS NULL SENDER IFSCK- 
+                                                                                                                                     VBL0002115 IL36701805052502 
+
+                                                                                                                                                                          Page : 2 of 18 
+<<<
+
+Operating Account Consolidated Statement 
+                                                                                                                                                         Standard Chartered 
+
+                                                                           Processing Cheque        Debit /                                                                 Transaction 
+
+Transaction Date Value Date    Transaction Reference Customer Reference Branch         Number       Credit     Transaction Amount     Transaction Details                   Type 
+
+07.May.2018       07.May.2018 INWARD CLG CHQ W        6903758              225         000509       D                     50,000.00 INWARD CLG CHQ WITHDRAWAL 000509        600 
+                                                                                                                                     Cheque Clearing Lcy-debit INWARD CLG CHQ 
+                                                                                                                                     WITHDRAWAL 000509 RAJMAL RAYCHAND 0485 
+                                                                                                                                      31 614389 0052858653 
+                                                                                                                                          WITHDRAWAL -SELF Cash Withdrawal LcY- 876 
+07.May.2018       07.May.2018 CASH WITHDRAWAL         1749586              225         000843       D                    150,000.00   CASH 
+                                                                                                                                      Debit CASH WITHDRAWAL -SELF 
+                                                                                                                                      2018-05-0723111475992310065 22506143895 
+                                                                                                                                      CHQ DEPOSIT103261 Cheque Deposit MICR-credit 
+07.May.2018       08.May.2018 CHQ DEPOSIT10326        6905171              225          103261      C                    154,752.00                                         648 
+                                                                                                                                      CHQ DEPOSIT103261 KALYAN JANATA SA- 
+                                                                                                                                     HAKARI BANK LTD 
+07.May.2018       08.May.2018 CHQ DEPOSIT51131        6905171              225         511317       C                     80,000.00   CHQ DEPOSIT511317 Cheque Deposit MICR-credit 648 
+                                                                                                                                      CHQ DEPOSIT511317 THE BHARAT CO-OP 
+                                                                                                                                      BANK LTD 
+07.May.2018       08.May.2018 CHQ DEPOSIT00735        6905171              225         007353       C                      3,995.00   CHQ DEPOSIT007353 Cheque Deposit MICR-credit 648 
+                                                                                                                                      CHQ DEPOSIT007353 BANK OF BARODA 
+07.May.2018       07.May.2018 SBINR12018050700        8517297              225                      C                    556,280.00 IL36701805073782|SBINR12018050700036611 In- 755 
+                                                                                                                                     RTGS-credit CASH|SBINR12018050700036611 
+                                                                                                                                     VHM INDUSTRIES LTD SENDER IFSCS- 
+                                                                                                                                      BIN0001593 IL36701805073782 
+08.May.2018       08.May.2018 SB3670180508FS22        8879548              225                      D                      5,000.00 PISKTEIN01A01213-SIN22176Q0001208 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01213-SIN22176Q0001208 
+                                                                                                                                      SB3670180508FS22 NIKHIL KUMAR MAITY- 
+                                                                                                                                      ADVANCE AGN APRIL SAL 
+                                                                                                                                     PISKTEIN01A01212-SIN22176Q0001207 STS Book 
+08.May.2018       08.May.2018 SB3670180508FS26        8879565              225                      D                     15,000.00                                         896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01212-SIN22176Q0001207 
+                                                                                                                                      SB3670180508FS26 BALIRAM LODHI-ADVANCE 
+                                                                                                                                      FOR LOAN AC 
+                                                                                                                                     INWARD CLG CHQ WITHDRAWAL 001103 
+08.May.2018       08.May.2018 INWARD CLG CHQ W        6905245              225         001103       D                    654,635.00                                         600 
+                                                                                                                                      Cheque Clearing Lcy-debit INWARD CLG CHQ 
+                                                                                                                                     WITHDRAWAL 001103 VISHNU TEXTILES 
+                                                                                                                                      4207112215 
+08.May.2018       08.May.2018 INWARD CLG CHQ W        6905227              225         001104       D                     36,803.00 INWARD CLG CHQ WITHDRAWAL 001104        600 
+                                                                                                                                      Cheque Clearing Lcy-debit INWARD CLG CHQ 
+                                                                                                                                     WITHDRAWAL 001104 VISHNU TEXTILES COR- 
+                                                                                                                                      PORATION 0060 31 614389 0052880213 
+                                                                                                                                     IL36701805084203|HDFCR52018050877242448 In- 755 
+08.May.2018       08.May.2018 R128180055785364        8850923              225                      C                    235,000.00 
+                                                                                                                                     RTGS-credit CASH|HDFCR52018050877242448 
+                                                                                                                                      SKSTEXTILESPVTLTD SENDER IF- 
+                                                                                                                                      SCHDFC0000240 IL36701805084203 
+08.May.2018       08.May.2018 SBINR12018050800        8771092              225                      C                  1,322,997.00 IL36701805080850|SBINR12018050800004044 In- 755 
+                                                                                                                                     RTGS-credit CASH|SBINR12018050800004044 
+                                                                                                                                      VHM INDUSTRIES LIMITED SENDER IFSCS- 
+                                                                                                                                     BIN0001593 IL36701805080850 
+09.May.2018       09.May.2018 SE36701805092162        9075391              225                      D                    255,590.53 PISKTEIN01A01216-SCBLR12018050900003685 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018050900003685 AEEVEE TEX- 
+                                                                                                                                      TILES AEEVEE TEXTILES-INV PAID 
+                                                                                                                                     PISKTEIN01A01216- 
+
+                                                                                                                                                                          Page : 3 of 18 
+<<<
+
+Operating Account Consolidated Statement 
+                                                                                                                                                         Standard Chartered 
+
+                                                                           Processing Cheque        Debit /                                                                 Transaction 
+
+Transaction Date Value Date    Transaction Reference Customer Reference Branch         Number       Credit     Transaction Amount     Transaction Details                   Type 
+
+09.May.2018       09.May.2018 SE36701805092157        9075399              225                      D                    556,366.00 PISKTEIN01A01215-SCBLR12018050900003687 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018050900003687 AEEVEE TEX- 
+                                                                                                                                      TILES AEEVEE TEXTILES-INV PAID PISK- 
+                                                                                                                                      TEIN01A01215- 
+09.May.2018       09.May.2018 SE36701805092159        9075402              225                      D                    264,370.47 PISKTEIN01A01214-SCBLR12018050900003688 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018050900003688 AEEVEE TEX- 
+                                                                                                                                      TILES AEEVEE TEXTILES-AGN INV PAID PISK- 
+                                                                                                                                      TEIN01A01214- 
+09.May.2018       09.May.2018 SE36701805092158        9075407              225                      D                    790,249.00 PISKTEIN01A01217-SCBLR12018050900003689 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018050900003689 GURUANAND 
+                                                                                                                                      SILK MILLS PVT.LTD. GURUANAND SILK MILLS 
+                                                                                                                                      PVT.LTD .- AGN I NV PA PISKTEIN01A01217- 
+                                                                                                                                     PISKTEIN01A01220-SIN22176Q0001215 STS Book 896 
+09.May.2018       09.May.2018 SB3670180509BF52        9083540              225                      D                     53,450.00 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01220-SIN22176Q0001215 
+                                                                                                                                      SB3670180509BF52 SHWETA JITENDRA 
+                                                                                                                                     PUNAMIA-APRIL 2018 SALAR 
+09.May.2018       09.May.2018 SE36701805092435        9083562              225                      D                    310,323.00 PISKTEIN01A01219-SCBLR12018050900004039 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018050900004039 S.D.TEXTILES 
+                                                                                                                                      S.D.TEXTILES-AGN INV PAID PISK- 
+                                                                                                                                      TEIN01A01219- 
+09.May.2018       09.May.2018 SE36701805092160        9075388              225                      D                    211,558.00 PISKTEIN01A01218-SCBLR12018050900003683 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018050900003683 GURUANAND 
+                                                                                                                                      SILK MILLS PVT.LTD. GURUANAND SILK MILLS 
+                                                                                                                                     PVT.LTD .- AGN I NV PA PISKTEIN01A01218- 
+09.May.2018       09.May.2018 INWARD CLG CHQ W        6906352              225         000713       D                     50,000.00 INWARD CLG CHQ WITHDRAWAL 000713        600 
+                                                                                                                                      Cheque Clearing Lcy-debit INWARD CLG CHQ 
+                                                                                                                                     WITHDRAWAL 000713 RAJMAL RAYCHAND 0485 
+                                                                                                                                      31 614389 0052898241 
+09.May.2018       09.May.2018 IN3670180509G398        9035472              225                      C                    110,000.00 IN3670180509G398|N129180537477920 Funds 716 
+                                                                                                                                      Transfer NEFT Inward -credit 
+                                                                                                                                     IN3670180509G398|N129180537477920 S K S 
+                                                                                                                                      TEXTILES PVT LTD 
+                                                                                                                                      529010804312 ISS000 IMEX CR/DR Transaction 
+09.May.2018       09.May.2018 529010804312 ISS        0441556              225                      D                     25,122.11                                         255 
+                                                                                                                                     online - Debit 529010804312 ISS000 VEEKAYEM 
+                                                                                                                                      TEXTILES MILLS PVT PRF015 
+                                                                                                                                     INR20,789.93@1/INR1,916.09@1 DEBIT IMEX 
+                                                                                                                                      CUSTOMER A/C 
+09.May.2018       09.May.2018 529010785057 POA        0440792              225                      D                  5,024,473.00 529010785057 POA001 IMEX CR/DR Transaction 255 
+                                                                                                                                     online - Debit 529010785057 POA001 VEEKAYEM 
+                                                                                                                                      TEXTILES MILLS PVT. PRF032 
+                                                                                                                                     INR5,023,883@1/INR500@1/INR45@1 DEBIT 
+                                                                                                                                     IMEX CUSTOMER A/C 
+
+                                                                                                                                                                          Page : 4 of 18 
+<<<
+
+Operating Account Consolidated Statement 
+                                                                                                                                                         Standard Chartered 
+
+                                                                           Processing Cheque        Debit /                                                                 Transaction 
+
+Transaction Date Value Date    Transaction Reference Customer Reference Branch         Number       Credit     Transaction Amount     Transaction Details                   Type 
+
+09.May.2018       09.May.2018 SBINR12018050900        9047216              225                      C                  1,225,843.00 IL36701805092075|SBINR12018050900017928 In- 755 
+                                                                                                                                     RTGS-credit CASH|SBINR12018050900017928 
+                                                                                                                                      VHM INDUSTRIES LIMITED SENDER IFSCS- 
+                                                                                                                                     BIN0001593 IL36701805092075 
+                                                                                                                                     IL36701805092124|SBINR12018050900018243 In- 755 
+09.May.2018       09.May.2018 SBINR12018050900        9048644              225                      C                  1,055,621.00 
+                                                                                                                                     RTGS-credit CASH|SBINR12018050900018243 
+                                                                                                                                     VHM INDUSTRIES LIMITED SENDER 
+                                                                                                                                     IFSCSBIN0001593 IL36701805092124 
+09.May.2018       09.May.2018 R129180055822066        9029022              225                      C                  2,279,088.00 IL36701805091198|HDFCR52018050977328380 In- 755 
+                                                                                                                                     RTGS-credit CASH|HDFCR52018050977328380 
+                                                                                                                                      CHOLAMANDALAMINVSTANDFINANC650 
+                                                                                                                                      SENDER IFSCHDFC0000240 IL36701805091198 
+                                                                                                                                     IN3670180510R337|SBIN818130899537 Funds 716 
+10.May.2018       10.May.2018 IN3670180510R337        9308483              225                      C                    123,174.00 
+                                                                                                                                      Transfer NEFT Inward -credit 
+                                                                                                                                      IN3670180510R337|SBIN818130899537 VHM IN- 
+                                                                                                                                     DUSTRIES LTD 
+10.May.2018       11.May.2018 CHQ DEPOSIT19098        6915334              225          190981      C                        209.00 CHQ DEPOSIT 190981 Cheque Deposit MICR-credit 648 
+                                                                                                                                      CHQ DEPOSIT 190981 UNION BANK OF INDIA 
+ 10.May.2018      11.May.2018 CHQ DEPOSIT19086        6915334              225          190868      C                    152,439.00   CHQ DEPOSIT190868 Cheque Deposit MICR-credit 648 
+                                                                                                                                     CHQ DEPOSIT 190868 UNION BANK OF INDIA 
+ 10.May.2018      11.May.2018 CHQ DEPOSIT07894        6915334              225         078945       C                     87,717.00 CHQ DEPOSIT078945 Cheque Deposit MICR-credit 648 
+                                                                                                                                      CHQ DEPOSIT078945 COSMOS CO-OP BANK 
+                                                                                                                                     LTD 
+ 11.May.2018      11.May.2018 SB3670180511Q787        9532023              225                      D                    108,563.00 PISKTEIN01A01222-SIN22176Q0001217 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01222-SIN22176Q0001217 
+                                                                                                                                      SB3670180511Q787 A.P.TEX-AGN INV 
+                                                                                                                                     NO.2018-19/001 
+11.May.2018       11.May.2018 SB3670180511Q788        9532030              225                      D                    109,102.00 PISKTEIN01A01223-SIN22176Q0001218 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01223-SIN22176Q0001218 
+                                                                                                                                      SB3670180511Q788 RADHE FASHION-AGN INV 
+                                                                                                                                     NO.RF/001/201 8-19 
+11.May.2018       11.May.2018 SE36701805112131        9532006              225                      D                    885,575.00 PISKTEIN01A01221-SCBLR12018051100003843 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018051100003843 GURUANAND 
+                                                                                                                                      SILK MILLS PVT.LTD. GURUANAND SILK MILLS 
+                                                                                                                                     PVT.LTD .- AGN I NV PA PISKTEIN01A01221- 
+11.May.2018       11.May.2018 INWARD CLG CHQ W        6915824              225         000641       D                     55,850.00 INWARD CLG CHQ WITHDRAWAL 000641        600 
+                                                                                                                                     Cheque Clearing Lcy-debit INWARD CLG CHQ 
+                                                                                                                                     WITHDRAWAL 000641 SIDDHI COLLECTION 0024 
+                                                                                                                                      31 614389 0052923864 
+ 11.May.2018      14.May.2018 CHQ DEPOSIT50623        6916054              225         506231       C                     24,568.00   CHQ DEPOSIT506231 Cheque Deposit MICR-credit 648 
+                                                                                                                                      CHQ DEPOSIT506231 PUNJAB NATIONAL BANK 
+ 11.May.2018      11.May.2018 SBINR12018051100        9498505              225                      C                    955,233.00 IL36701805111752|SBINR12018051100012436 In- 755 
+                                                                                                                                     RTGS-credit CASH|SBINR12018051100012436 
+                                                                                                                                      VHM INDUSTRIES LIMITED SENDER IFSCS- 
+                                                                                                                                      BIN0001593 IL36701805111752 
+ 14.May.2018      15.May.2018 CHQ DEPOSIT85706        6916255              225         857062       C                    105,190.00   CHQ DEPOSIT857062 Cheque Deposit MICR-credit 648 
+                                                                                                                                      CHQ DEPOSIT857062 PUNJAB NATIONAL BANK 
+
+                                                                                                                                                                          Page : 5 of 18 
+<<<
+
+Operating Account Consolidated Statement 
+                                                                                                                                                         Standard Chartered 
+
+                                                                           Processing Cheque        Debit /                                                                 Transaction 
+Transaction Date Value Date    Transaction Reference Customer Reference Branch         Number       Credit     Transaction Amount     Transaction Details                   Type 
+
+ 14.May.2018      14.May.2018 BARBH18134815680        9965297              225                      C                    976,737.00 IL36701805148149|BARBR52018051400815680 In- 755 
+                                                                                                                                     RTGS-credit CASH|BARBR52018051400815680 
+                                                                                                                                      SUNTANA TEXTILE MILLS PVT LTD SENDER IF- 
+                                                                                                                                      SCBARBOTHANAX IL36701805148149 
+ 14.May.2018      14.May.2018 BARBH18134815300        9964549              225                      C                  1,567,527.00 IL36701805148116|BARBR52018051400815300 In- 755 
+                                                                                                                                     RTGS-credit CASH|BARBR52018051400815300 
+                                                                                                                                      SUNTANA TEXTILE MILLS PVT LTD SENDER IF- 
+                                                                                                                                      SCBARBOTHANAX IL36701805148116 
+ 15.May.2018      15.May.2018 IN3670180515GE59        0249392              225                      C                    175,709.00 IN3670180515GE59|BARBQ18135806582 Funds 716 
+                                                                                                                                      Transfer NEFT Inward -credit 
+                                                                                                                                     IN3670180515GE59|BARBQ18135806582 JOHN 
+                                                                                                                                      BERRY FASHIONS 
+ 16.May.2018      16.May.2018 SE36701805162700        0373030              225                      D                    550,000.00 PISKTEIN01A01228-SCBLR12018051600004664 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018051600004664 S K S TEX- 
+                                                                                                                                      TILES PRIVATE LIMITED S K S TEXTILES PRI- 
+                                                                                                                                      VATE LIMITED-SKS DBS B PISKTEIN01A01228- 
+16.May.2018       16.May.2018 SE36701805162643        0372698              225                      D                    553,424.00 PISKTEIN01A01227-SCBLR12018051600004627 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018051600004627 S.D.TEXTILES 
+                                                                                                                                      S.D.TEXTILES-AGN INV PAID PISK- 
+                                                                                                                                      TEIN01A01227- 
+16.May.2018       16.May.2018 SE36701805162639        0372504              225                      D                    437,233.00 PISKTEIN01A01224-SCBLR12018051600004623 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018051600004623 D.S.TEXTILES 
+                                                                                                                                     D.S.TEXTILES-INV PAID PISKTEIN01A01224- 
+ 16.May.2018      16.May.2018 SE36701805162641        0372519              225                      D                    405,689.00 PISKTEIN01A01226-SCBLR12018051600004624 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018051600004624 S.D.TEXTILES 
+                                                                                                                                      S.D.TEXTILES-INV PAID PISKTEIN01A01226- 
+16.May.2018       16.May.2018 SB3670180516HS37        0426850              225                      D                     11,300.00 PISKTEIN01A01229-SIN22176Q0001224 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01229-SIN22176Q0001224 
+                                                                                                                                      SB3670180516HS37 VEENA ELECTRONICS-INV 
+                                                                                                                                     NO.696-697 PA ID NE 
+ 16.May.2018      16.May.2018 SB3670180516OB50        0463913              225                      D                      2,100.00 PISKTEIN01A01231-SIN22176Q0001226 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01231-SIN22176Q0001226 
+                                                                                                                                      SB3670180516OB50 MAHESHWARI MALAPPA 
+                                                                                                                                      AYYAAPOLA-APRIL SALAR 
+ 16.May.2018      16.May.2018 SB3670180516OB51        0463914              225                      D                     20,000.00 PISKTEIN01A01230-SIN22176Q0001225 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01230-SIN22176Q0001225 
+                                                                                                                                      SB3670180516OB51 MANOJ KUMAR SINGH- 
+                                                                                                                                      ADVANCE FOR LOAN AC 
+ 16.May.2018      16.May.2018 SE36701805162642        0372664              225                      D                    685,881.00 PISKTEIN01A01225-SCBLR12018051600004626 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                     CASH|SCBLR12018051600004626 D.S.TEXTILES 
+                                                                                                                                     D.S.TEXTILES-INV PAID PISKTEIN01A01225- 
+
+                                                                                                                                                                          Page : 6 of 18 
+<<<
+
+Operating Account Consolidated Statement 
+                                                                                                                                                         Standard Chartered 
+
+                                                                           Processing Cheque        Debit /                                                                 Transaction 
+Transaction Date Value Date    Transaction Reference Customer Reference Branch         Number       Credit     Transaction Amount     Transaction Details                   Type 
+
+ 16.May.2018      16.May.2018 INWARD CLG CHQ W        6956875              225         000714       D                     50,000.00 INWARD CLG CHQ WITHDRAWAL 000714        600 
+                                                                                                                                      Cheque Clearing Lcy-debit INWARD CLG CHQ 
+                                                                                                                                     WITHDRAWAL 000714 RAJMAL RAYCHAND 0485 
+                                                                                                                                      31 614389 0053005739 
+                                                                                                                                     IN3670180516Y452|BARBR18136081647 Funds 
+ 16.May.2018      16.May.2018 IN3670180516Y452        0395872              225                      C                    128,539.00                                         716 
+                                                                                                                                      Transfer NEFT Inward -credit 
+                                                                                                                                     IN3670180516Y452|BARBR18136081647 JOHN 
+                                                                                                                                      BERRY FASHIONS 
+ 16.May.2018      17.May.2018 CHQ DEPOSIT04108        6979694              225         041085       C                  1,975,000.00   CHQ DEPOSIT041085 Cheque Deposit MICR-credit 648 
+                                                                                                                                      CHQ DEPOSIT041085 BANK OF MAHARASHTRA 
+ 16.May.2018      17.May.2018 CHQ DEPOSIT07894        6979694              225         078947       C                    137,913.00   CHQ DEPOSIT078947 Cheque Deposit MICR-credit 648 
+                                                                                                                                      CHQ DEPOSIT078947 COSMOS CO-OP BANK 
+                                                                                                                                     LTD 
+17.May.2018       17.May.2018 SB3670180517GC47        0729295              225                      D                      1,375.00   PISKTEIN01A01232-SIN22176Q0001227 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01232-SIN22176Q0001227 
+                                                                                                                                      SB3670180517GC47 VEENA ELECTRONICS-AGN 
+                                                                                                                                     INV NO. 1112 P AID 
+17.May.2018       17.May.2018 SB3670180517GC49        0729298              225                      D                     49,800.00   PISKTEIN01A01233-SIN22176Q0001228 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01233-SIN22176Q0001228 
+                                                                                                                                      SB3670180517GC49 VINEET BARDIA-APRIL 
+                                                                                                                                      SALARY PAID 
+ 17.May.2018      17.May.2018 SB3670180517GC48        0729294              225                      D                     23,750.00 PISKTEIN01A01234-SIN22176Q0001229 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01234-SIN22176Q0001229 
+                                                                                                                                      SB3670180517GC48 SUREBDER SHAMLAL MIT- 
+                                                                                                                                      TAL-BRO.25000 L ESS T 
+                                                                                                                                                                 Funds      716 
+ 17.May.2018      17.May.2018 IN3670180517K657        0561560              225                      C                     65,281.00 IN3670180517K657|P18051748963460 
+                                                                                                                                      Transfer NEFT Inward -credit 
+                                                                                                                                     IN3670180517K657|P18051748963460 SWETA 
+                                                                                                                                      SYNTHETICS PVT LTD 
+ 18.May.2018      18.May.2018 SB3670180518T343        0869119              225                      D                    102,692.00 PISKTEIN01A01236-SIN22176Q0001231 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01236-SIN22176Q0001231 
+                                                                                                                                      SB3670180518T343 HARSH TEXTILES-AGN INV 
+                                                                                                                                      PAID 
+ 18.May.2018      18.May.2018 SE36701805182386        0869120              225                      D                    300,000.00 PISKTEIN01A01238-SCBLR12018051800003945 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018051800003945 VICKY INTER- 
+                                                                                                                                     NATIONAL VICKY INTERNATIONAL-PART PAY- 
+                                                                                                                                     MENT PISKTEIN01A01238- 
+ 18.May.2018      18.May.2018 SE36701805182387        0869121              225                      D                    226,716.00 PISKTEIN01A01237-SCBLR12018051800003946 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018051800003946 D.S.TEXTILES 
+                                                                                                                                     D.S.TEXTILES-AGN INV PAID PISK- 
+                                                                                                                                      TEIN01A01237- 
+
+                                                                                                                                                                          Page : 7 of 18 
+<<<
+
+Operating Account Consolidated Statement 
+                                                                                                                                                         Standard Chartered 
+
+                                                                           Processing Cheque        Debit /                                                                 Transaction 
+
+Transaction Date Value Date    Transaction Reference Customer Reference Branch         Number       Credit     Transaction Amount     Transaction Details                   Type 
+
+ 18.May.2018      18.May.2018 SE36701805182388        0869122              225                      D                    426,311.00 PISKTEIN01A01239-SCBLR12018051800003947 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018051800003947 HARSH TEX- 
+                                                                                                                                      TILES HARSH TEXTILES-AGN INV PAID PISK- 
+                                                                                                                                      TEIN01A01239- 
+18.May.2018       18.May.2018 SE36701805180375        0804083              225                      D                    441,335.00 PISKTEIN01A01235-SCBLR12018051800000398 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018051800000398 UDAYA 
+                                                                                                                                      RAYON TEXTILES UDAYA RAYON TEXTILES- 
+                                                                                                                                      AGN INV NO.067 2/CR PISKTEIN01A01235- 
+ 18.May.2018      18.May.2018 IN3670180518E033        0846376              225                      C                    124,378.00 IN3670180518E033|SBIN418138751232 Funds 716 
+                                                                                                                                      Transfer NEFT Inward -credit 
+                                                                                                                                      IN3670180518E033|SBIN418138751232 VHM IN- 
+                                                                                                                                     DUSTRIES LTD 
+                                                                                                                                     CHQ DEPOSIT010678 Cheque Deposit MICR-credit 
+ 18.May.2018      19.May.2018 CHQ DEPOSIT01067        7007588              225         010678       C                    375,013.00                                         648 
+                                                                                                                                      CHQ DEPOSIT010678 KOTAK MAHINDRA BANK 
+ 18.May.2018      19.May.2018 CHQ DEPOSIT00249        7007588              225         002497       C                     36,030.00   CHQ DEPOSIT002497 Cheque Deposit MICR-credit 648 
+                                                                                                                                      CHQ DEPOSIT002497 VIKRAMADITYA NAGRIK 
+                                                                                                                                      SAHKARI BANK LTD. 
+18.May.2018       19.May.2018 CHQ DEPOSIT51820        7007588              225         518205       C                      2,117.00   CHQ DEPOSIT518205 Cheque Deposit MICR-credit 648 
+                                                                                                                                      CHQ DEPOSIT518205 BANK OF INDIA 
+ 18.May.2018      19.May.2018 CHQ DEPOSIT51131        7007588              225         511316       C                     80,000.00 CHQ DEPOSIT511316 Cheque Deposit MICR-credit 648 
+                                                                                                                                      CHQ DEPOSIT511316 THE BHARAT CO-OP 
+                                                                                                                                      BANK LTD 
+18.May.2018       18.May.2018 946289567840447         0910642              225                      C                    696,255.00 IL36701805185185|KVBLR52018051800350398 In- 755 
+                                                                                                                                     RTGS-credit CASH|KVBLR52018051800350398 
+                                                                                                                                      SWETA SYNTHETICS NULL SENDER IFSCK- 
+                                                                                                                                      VBL0002115 IL36701805185185 
+18.May.2018       18.May.2018 105723567839644         0910588              225                      C                  1,094,716.00 IL36701805185174|KVBLR52018051800350396 In- 755 
+                                                                                                                                     RTGS-credit CASH|KVBLR52018051800350396 
+                                                                                                                                      SWETA SYNTHETICS NULL SENDER IFSCK- 
+                                                                                                                                      VBL0002115 IL36701805185174 
+18.May.2018       18.May.2018 449446567841606         0910612              225                      C                    362,844.00 IL36701805185179|KVBLR52018051800350397 In- 755 
+                                                                                                                                     RTGS-credit CASH|KVBLR52018051800350397 
+                                                                                                                                      SWETA SYNTHETICS NULL SENDER IFSCK- 
+                                                                                                                                      VBL0002115 IL36701805185179 
+ 19.May.2018      19.May.2018 SB3670180519Y696        1125872              225                      D                    744,511.00 PISKTEIN01A01241-SIN22176Q0001236 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01241-SIN22176Q0001236 
+                                                                                                                                      SB3670180519Y696 K.K.SILK MILLS 
+                                                                                                                                     PVT.LTD .- AGN INV PIA D 
+                                                                                                                                     PISKTEIN01A01240-SIN22176Q0001235 STS Book 896 
+ 19.May.2018      19.May.2018 SB3670180519Y695        1125871              225                      D                    491,542.00 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01240-SIN22176Q0001235 
+                                                                                                                                      SB3670180519Y695 K.K.SILK MILLS 
+                                                                                                                                     PVT.LTD .- AGN INV PAI D 
+                                                                                                                                     IN36701805191763|N139180544420235 Funds 
+19.May.2018       19.May.2018 IN36701805191763        1037008              225                      C                    105,000.00                                         716 
+                                                                                                                                      Transfer NEFT Inward -credit 
+                                                                                                                                     IN36701805191763|N139180544420235 S K S 
+                                                                                                                                      TEXTILES PVT LTD 
+
+                                                                                                                                                                          Page : 8 of 18 
+<<<
+
+Operating Account Consolidated Statement 
+                                                                                                                                                         Standard Chartered 
+
+                                                                           Processing Cheque        Debit /                                                                 Transaction 
+                                                                                                    Credit     Transaction Amount                                           Type 
+Transaction Date Value Date    Transaction Reference Customer Reference Branch         Number                                         Transaction Details 
+
+21.May.2018       21.May.2018 SE36701805211661        1220523              225                      D                    784,750.00 PISKTEIN01A01243-SCBLR12018052100003071 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018052100003071 S.D.TEXTILES 
+                                                                                                                                      S.D.TEXTILES-AGN INV PAID PISK- 
+                                                                                                                                      TEIN01A01243- 
+21.May.2018       21.May.2018 SB36701805210830        1221848              225                      D                     29,330.00 PISKTEIN01A01242-SIN22176Q0001237 STS Book 896 
+                                                                                                                                      Transfer- Debit PISK- 
+                                                                                                                                      TEIN01A01242-SIN22176Q0001237 
+                                                                                                                                      SB36701805210830 S.D.TEXTILES-AGN INV PAID 
+21.May.2018       21.May.2018 IN3670180521DC27        1376564              225                      C                    145,000.00 IN3670180521DC27|N141180545594539 Funds 716 
+                                                                                                                                      Transfer NEFT Inward -credit 
+                                                                                                                                      IN3670180521DC27|N141180545594539 S K S 
+                                                                                                                                      TEXTILES PVT LTD 
+21.May.2018       21.May.2018 IN3670180521G481        1204880              225                      C                     35,580.00 IN3670180521G481|P18052149941776 Funds 716 
+                                                                                                                                      Transfer NEFT Inward -credit 
+                                                                                                                                     IN3670180521G481|P18052149941776 SWETA 
+                                                                                                                                      SYNTHETICS PVT LTD 
+21.May.2018       22.May.2018 CHQ DEPOSIT85708        7016643              225         857082       C                    107,299.00   CHQ DEPOSIT857082 Cheque Deposit MICR-credit 648 
+                                                                                                                                      CHQ DEPOSIT857082 PUNJAB NATIONAL BANK 
+21.May.2018       21.May.2018 SBINR12018052100        1222033              225                      C                  1,320,590.00 IL36701805213790|SBINR12018052100034096 In- 755 
+                                                                                                                                     RTGS-credit CASH|SBINR12018052100034096 
+                                                                                                                                      VHM INDUSTRIES LTD SENDER IFSCS- 
+                                                                                                                                     BIN0001593 IL36701805213790 
+22.May.2018       22.May.2018 SE36701805223820        1557431              225                      D                  1,850,000.00 PISKTEIN01A01244-SCBLR12018052200006031 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018052200006031 S K S TEX- 
+                                                                                                                                      TILES PRIVATE LIMITED S K S TEXTILES PRI- 
+                                                                                                                                      VATE LIMITED-SKS HDFC PISKTEIN01A01244- 
+                                                                                                                                     PISKTEIN01A01246-SCBLR12018052200006033 896 
+22.May.2018       22.May.2018 SE36701805223822        1557441              225                      D                    416,071.00 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018052200006033 SOHANLAL 
+                                                                                                                                     MOHANLAL AND SONS SOHANLAL MOHANLAL 
+                                                                                                                                      AND SONS-AGN INV PAID PISKTEIN01A01246- 
+22.May.2018       22.May.2018 SE36701805223819        1557430              225                      D                    357,429.00 PISKTEIN01A01245-SCBLR12018052200006030 896 
+                                                                                                                                      STS Book Transfer- Debit 
+                                                                                                                                      CASH|SCBLR12018052200006030 SOHANLAL 
+                                                                                                                                     MOHANLAL AND SONS SOHANLAL MOHANLAL 
+                                                                                                                                      AND SONS-AGN INV PAID PISKTEIN01A01245- 
+                                                                                                                                     INWARD CLG CHQ WITHDRAWAL 000510       600 
+22.May.2018       22.May.2018 INWARD CLG CHQ W        7016675              225         000510       D                     50,000.00 
+                                                                                                                                      Cheque Clearing Lcy-debit INWARD CLG CHQ 
+                                                                                                                                     WITHDRAWAL 000510 RAJMAL RAYCHAND 0485 
+                                                                                                                                      31 614389 0053090834 
+22.May.2018       22.May.2018 IN3670180522Y181        1600701              225                      C                    783,490.00 IN3670180522Y181|SBIN718142476046 Funds 716 
+                                                                                                                                      Transfer NEFT Inward -credit 
+                                                                                                                                     IN3670180522Y181|SBIN718142476046 GREEN- 
+                                                                                                                                      TEX EXPORTS INDIA PVT LTD 
+22.May.2018       22.May.2018 IN3670180522M782        1511509              225                      C                     73,280.00 IN3670180522M782|BCBMH18141002044 Funds 716 
+                                                                                                                                      Transfer NEFT Inward -credit 
+                                                                                                                                     IN3670180522M782|BCBMH18141002044 RA- 
+                                                                                                                                      JSHREE SYNTEX EXPORTS PVT LTD 
+
+                                                                                                                                                                          Page : 9 of 18 
+<<<
+
+Operating Account Consolidated Statement 
+                                                                                                                                                        Standard Chartered 
+
+                                                                          Processing   Cheque       Debit /                                                                Transaction 
+Transaction Date Value Date    Transaction Reference Customer Reference Branch         Number       Credit    Transaction Amount     Transaction Details                   Type 
+
+22.May.2018       23.May.2018 CHQ DEPOSIT19342        7025929             225          193425       C                    55,184.00   CHQ DEPOSIT193425 Cheque Deposit MICR-credit 648 
+                                                                                                                                     CHQ DEPOSIT193425 BANK OF MAHARASHTRA 
+22.May.2018       22.May.2018 529010806132 ISS        0464633             225                       D                    19,884.17   529010806132 ISS000 IMEX CR/DR Transaction 255 
+                                                                                                                                     online - Debit 529010806132 ISS000 VEEKAYEM 
+                                                                                                                                     TEXTILES MILLS PVT PRF016 
+                                                                                                                                     INR16,350.99@1/INR1,516.59@1 DEBIT IMEX 
+                                                                                                                                     CUSTOMER A/C 
+22.May.2018       22.May.2018 529010787411 POA        0464331             225                       D                 4,948,951.00   529010787411 POA001 IMEX CR/DR Transaction 255 
+                                                                                                                                     online - Debit 529010787411 POA001 VEEKAYEM 
+                                                                                                                                     TEXTILES MILLS PVT. PRF033 
+                                                                                                                                     INR4,948,361@1/INR500@1/INR45@1 DEBIT 
+                                                                                                                                     IMEX CUSTOMER A/C 
+                                                                                                                                     TF529SH330-00001 OAF Transaction - Dr 864 
+22.May.2018       21.May.2018 TF529SH330-00001        0051016             225                       D                    32,912.19 
+                                                                                                                                     TF529SH330-00001 DEBIT OAF CUSTOMER A/C 
+                                                                                                                                     TF529SH336-00001 OAF Transaction - Dr 
+22.May.2018       22.May.2018 TF529SH336-00001        0051009             225                       D                     9,265.67                                         864 
+                                                                                                                                     TF529SH336-00001 DEBIT OAF CUSTOMER A/C 
+22.May.2018       21.May.2018 TF529SH334-00001        0051011             225                       C                  1,128,404.44 TF529SH334-00001 OAF Transaction - Cr 764 
+                                                                                                                                     TF529SH334-00001 CREDIT OAF CUSTOMER A/C 
+22.May.2018       21.May.2018 TF529SH335-00001        0051012             225                       C                   276,080.04   TF529SH335-00001 OAF Transaction - Cr 764 
+                                                                                                                                     TF529SH335-00001 CREDIT OAF CUSTOMER A/C 
+22.May.2018       21.May.2018 TF529SH332-00001        0051013             225                       C                   759,174.33   TF529SH332-00001 OAF Transaction - Cr 764 
+                                                                                                                                     TF529SH332-00001 CREDIT OAF CUSTOMER A/C 
+                                                                                                                                                                Cr         764 
+22.May.2018       21.May.2018 TF529SH331-00001        0051014             225                       C                  1,350,760.34 TF529SH331-00001 OAF Transaction - 
+                                                                                                                                     TF529SH331-00001 CREDIT OAF CUSTOMER A/C 
+22.May.2018       22.May.2018 TF529SH330-00001        0051015             225                       C                  1,711,246.50 TF529SH330-00001 OAF Transaction - Cr 764 
+                                                                                                                                     TF529SH330-00001 CREDIT OAF CUSTOMER A/C 
+                                                                                                                                     TF529SH333-00001 OAF Transaction - Cr 
+22.May.2018       21.May.2018 TF529SH333-00001        0051010             225                       C                   787,164.48                                         764 
+                                                                                                                                     TF529SH333-00001 CREDIT OAF CUSTOMER A/C 
+22.May.2018       21.May.2018 TF529SH337-00001        0051050             225                       C                   718,008.52   TF529SH337-00001 OAF Transaction - Cr 764 
+                                                                                                                                     TF529SH337-00001 CREDIT OAF CUSTOMER A/C 
+22.May.2018       21.May.2018 TF529SH336-00001        0051008             225                       C                   433,585.80   TF529SH336-00001 OAF Transaction - Cr 764 
+                                                                                                                                     TF529SH336-00001 CREDIT OAF CUSTOMER A/C 
+22.May.2018       22.May.2018 UBINH18142553305        1466094             225                       C                   500,000.00   IL36701805222126|UBINR52018052200553305 In- 755 
+                                                                                                                                     RTGS-credit CASH|UBINR52018052200553305 
+                                                                                                                                     ROOPFAB INDUSTRIES PVT LTD SENDER IFS- 
+                                                                                                                                     CUBIN0531740 IL36701805222126 
+22.May.2018       22.May.2018 000019324634            1461221             225                       C                 2,500,000.00   IL36701805221622|DBSSR52018052242412412 In- 755 
+                                                                                                                                     RTGS-credit CASH|DBSSR52018052242412412 S 
+                                                                                                                                     K S TEXTILES LIMITED SENDER IF- 
+                                                                                                                                     SCDBSSOIN0811 IL36701805221622 
+23.May.2018       23.May.2018 SE36701805230161        1621566             225                       D                   542,127.00   PISKTEIN01A01247-SCBLR12018052300000229 896 
+                                                                                                                                     STS Book Transfer- Debit 
+                                                                                                                                     CASH|SCBLR12018052300000229 UDAYA 
+                                                                                                                                     RAYON TEXTILES UDAYA RAYON TEXTILES- 
+                                                                                                                                     AGN INV NO. 123 6 PAI PISKTEIN01A01247- 
+23.May.2018       23.May.2018 SB36701805235958        1622320             225                       D                    25,000.00   PISKTEIN01A01248-SIN22176Q0001243 STS Book 896 
+                                                                                                                                     Transfer- Debit PISK- 
+                                                                                                                                     TEIN01A01248-SIN22176Q0001243 
+                                                                                                                                     SB36701805235958 VICKY INTERNATIONAL- 
+                                                                                                                                     PART PAYMENTS 
+
+                                                                                                                                                                        Page : 10 of 18 
+<<<
